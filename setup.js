@@ -11,8 +11,9 @@ const YEAR = new Date().getFullYear();
 const createScript = (path, url) => {
     const data = `// From ${url}
 const fs = require('fs');
+const path = require('path');
 const setup = (inputPath = 'input.txt') => {
-    return fs.readFileSync(inputPath, { encoding: 'utf-8' }).split('\\n');
+    return fs.readFileSync(path.join(__dirname, inputPath), { encoding: 'utf-8' }).split('\\n');
 };
 const partOne = () => {
     const input = setup();
