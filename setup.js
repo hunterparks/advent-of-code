@@ -16,10 +16,10 @@ const setup = (inputPath = 'input.txt') => {
     return fs.readFileSync(path.join(__dirname, inputPath), { encoding: 'utf-8' }).split('\\n');
 };
 const partOne = () => {
-    const input = setup();
+    const input = setup('sample.txt');
 };
 const partTwo = () => {
-    const input = setup();
+    const input = setup('sample.txt');
 };
 partOne();
 partTwo();
