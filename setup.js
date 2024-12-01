@@ -37,9 +37,15 @@ const titleToPath = (title) =>
         );
 
 const updateReadme = (dayTitle) => {
+    let readmeContent = fs.readFileSync(README).toString().split('\n');
+    readmeContent = readmeContent.slice(0, readmeContent.length - 2);
+
     const dayPath = encodeURIComponent(titleToPath(dayTitle));
-    const appendData = `\n-   [${dayTitle}](${PROJECT_URL}/tree/main/${YEAR}/${dayPath})`;
-    fs.appendFileSync(README, appendData);
+    readmeContent.push(
+        `-   [${dayTitle}](${PROJECT_URL}/tree/main/${YEAR}/${dayPath})`
+    );
+    readmeContent.push('</details>');
+    fs.writeFileSync(README, readmeContent.join('\n'));
 };
 
 const main = () => {
