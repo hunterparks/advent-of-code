@@ -1,5 +1,14 @@
 # Advent of Code
 
+## 2021
+
+Check out the 2021 Advent of Code [here](https://adventofcode.com/2021)!
+
+-   [Day 1: Sonar Sweep](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-01-sonar-sweep)
+-   [Day 2: Dive!](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-02-dive!)
+-   [Day 3: Binary Diagnostic](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-03-binary-diagnostic)
+-   [Day 4: Giant Squid](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-04-giant-squid)
+
 ## 2022
 
 Check out the 2022 Advent of Code [here](https://adventofcode.com/2022)!
