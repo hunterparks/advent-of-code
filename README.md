@@ -2,7 +2,12 @@
 
 ## 2022
 
-Old solutions coming soon...
+Check out the 2022 Advent of Code [here](https://adventofcode.com/2022)!
+
+-   [Day 1: Calorie Counting](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-01-calorie-counting)
+-   [Day 2: Rock Paper Scissors](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-01-rock-paper-scissors)
+-   [Day 3: Rucksack Reorganization](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-03-rucksack-reorganization)
+-   [Day 4: Camp Cleanup](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-04-camp-cleanup)
 
 ## 2023
 
