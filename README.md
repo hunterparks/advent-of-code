@@ -1,5 +1,24 @@
 # Advent of Code
 
+## 2020
+
+Check out the 2020 Advent of Code [here](https://adventofcode.com/2020)!
+
+-   [Day 1: Report Repair](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-01-report-repair)
+-   [Day 2: Password Philosophy](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-02-password-philosophy)
+-   [Day 3: Toboggan Trajectory](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-03-toboggan-trajectory)
+-   [Day 4: Passport Processing](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-04-passport-processing)
+-   [Day 5: Binary Boarding](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-05-binary-boarding)
+-   [Day 6: Custom Customs](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-06-custom-customs)
+-   [Day 7: Handy Haversacks](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-07-handy-haversacks)
+-   [Day 8: Handheld Halting](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-08-handheld-halting)
+-   [Day 9: Encoding Error](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-09-encoding-error)
+-   [Day 10: Adapter Array](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-10-adapter-array)
+-   [Day 11: Seating System](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-11-seating-system)
+-   [Day 12: Rain Risk](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-12-rain-risk)
+-   [Day 13: Shuttle Search](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-13-shuttle-search)
+-   [Day 14: Docking Data](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-14-docking-data)
+
 ## 2021
 
 Check out the 2021 Advent of Code [here](https://adventofcode.com/2021)!
