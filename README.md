@@ -4,6 +4,9 @@
 
 Check out the 2020 Advent of Code [here](https://adventofcode.com/2020)!
 
+<details>
+    <summary>2020 Days</summary>
+
 -   [Day 1: Report Repair](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-01-report-repair)
 -   [Day 2: Password Philosophy](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-02-password-philosophy)
 -   [Day 3: Toboggan Trajectory](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-03-toboggan-trajectory)
@@ -18,36 +21,53 @@ Check out the 2020 Advent of Code [here](https://adventofcode.com/2020)!
 -   [Day 12: Rain Risk](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-12-rain-risk)
 -   [Day 13: Shuttle Search](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-13-shuttle-search)
 -   [Day 14: Docking Data](https://github.com/hunterparks/advent-of-code/tree/main/2020/day-14-docking-data)
+</details>
 
 ## 2021
 
 Check out the 2021 Advent of Code [here](https://adventofcode.com/2021)!
 
+<details>
+    <summary>2021 Days</summary>
+
 -   [Day 1: Sonar Sweep](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-01-sonar-sweep)
 -   [Day 2: Dive!](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-02-dive!)
 -   [Day 3: Binary Diagnostic](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-03-binary-diagnostic)
 -   [Day 4: Giant Squid](https://github.com/hunterparks/advent-of-code/tree/main/2021/day-04-giant-squid)
+</details>
 
 ## 2022
 
 Check out the 2022 Advent of Code [here](https://adventofcode.com/2022)!
 
+<details>
+    <summary>2022 Days</summary>
+
 -   [Day 1: Calorie Counting](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-01-calorie-counting)
 -   [Day 2: Rock Paper Scissors](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-01-rock-paper-scissors)
 -   [Day 3: Rucksack Reorganization](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-03-rucksack-reorganization)
 -   [Day 4: Camp Cleanup](https://github.com/hunterparks/advent-of-code/tree/main/2022/day-04-camp-cleanup)
+</details>
 
 ## 2023
 
 Check out the 2023 Advent of Code [here](https://adventofcode.com/2023)!
 
+<details>
+    <summary>2023 Days</summary>
+
 -   [Day 1: Trebuchet?!](https://github.com/hunterparks/advent-of-code/tree/main/2023/day-01-trebuchet%3F!)
 -   [Day 2: Cube Conundrum](https://github.com/hunterparks/advent-of-code/tree/main/2023/day-02-cube-conundrum)
 -   [Day 3: Gear Ratios](https://github.com/hunterparks/advent-of-code/tree/main/2023/day-03-gear-ratios)
 -   [Day 4: Scratchcards](https://github.com/hunterparks/advent-of-code/tree/main/2023/day-04-scratchcards)
+</details>
 
 ## 2024
 
 Check out the 2024 Advent of Code [here](https://adventofcode.com/2024)!
 
+<details open>
+    <summary>2024 Days</summary>
+
 -   [Day 1: Historian Hysteria](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-01-historian-hysteria)
+</details>
