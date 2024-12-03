@@ -70,4 +70,5 @@ Check out the 2024 Advent of Code [here](https://adventofcode.com/2024)!
     <summary>2024 Days</summary>
 
 -   [Day 1: Historian Hysteria](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-01-historian-hysteria)
+-   [Day 2: Red-Nosed Reports](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-02-red-nosed-reports)
 </details>
