@@ -38,7 +38,7 @@ const titleToPath = (title) =>
 
 const updateReadme = (dayTitle) => {
     let readmeContent = fs.readFileSync(README).toString().split('\n');
-    readmeContent = readmeContent.slice(0, readmeContent.length - 2);
+    readmeContent.splice(readmeContent.length - 1, 1);
 
     const dayPath = encodeURIComponent(titleToPath(dayTitle));
     readmeContent.push(
