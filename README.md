@@ -73,4 +73,5 @@ Check out the 2024 Advent of Code [here](https://adventofcode.com/2024)!
 -   [Day 2: Red-Nosed Reports](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-02-red-nosed-reports)
 -   [Day 3: Mull It Over](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-03-mull-it-over)
 -   [Day 4: Ceres Search](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-04-ceres-search)
+-   [Day 5: Print Queue](https://github.com/hunterparks/advent-of-code/tree/main/2024/day-05-print-queue)
 </details>
